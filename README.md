@@ -48,6 +48,7 @@ The main point of the model is determine if the user will subscribe - yes or no.
 <img width="452" alt="image" src="https://github.com/bharatbobby/nd00333_AZMLND_C2/assets/46679136/7fe468c0-1e4d-46cb-b0a6-22a4f7b4b746">
 
 12 pipeline-rest-endpoint
+
 <img width="452" alt="image" src="https://github.com/bharatbobby/nd00333_AZMLND_C2/assets/46679136/00284bf8-d315-48d0-9d22-72fd35eb8efb">
 
 # Project Recording link:
