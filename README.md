@@ -1,15 +1,15 @@
-Machine learning with Azure - BankMarketing.
+# Machine learning with Azure - BankMarketing.
 
 In this project of of the course "Machine Learning Engineer with Microsoft Azure", I used Microsoft Azure Machine Learning Studio Automated ML to create a model based on a dataset, deployoed that to a web service, consumed the endpoints to get the results back and also automated the flow using pipelines (created using a notebook)
 
-An overview of the project
+# An overview of the project
 First we uploaded the BankMarketing dataset (csv file). The dataset was then combined with an AutomatedML step. The best model from the automl run was registered which came to be Voting Ensemble with accuracy of 94.617%. We deployed this model to a webservice using Azure Container Instance. We enabled the logging and enabled the application insights. We also consumed the deployed model using Swagger and used the endpoint.py script to interact with the trained model. We will fully automate the process by creating a Azure ML Pipeline via Python SDK to have Automation and Efficiency.
 The main point of the model is determine if the user will subscribe - yes or no.
 
-Architectural Diagram
+# Architectural Diagram
 ![image](https://github.com/bharatbobby/nd00333_AZMLND_C2/assets/46679136/efbc43cb-4e3f-4bc6-8bac-1a31d531bef1)
 
-Key Steps
+# Key Steps
 1. Create a dataset in Azure ML: Here is the data loaded into the ML workspace
 <img width="452" alt="image" src="https://github.com/bharatbobby/nd00333_AZMLND_C2/assets/46679136/4df14b6a-b08e-4ec2-b955-e45269cecf0d">
 
@@ -50,11 +50,10 @@ Key Steps
 12 pipeline-rest-endpoint
 <img width="452" alt="image" src="https://github.com/bharatbobby/nd00333_AZMLND_C2/assets/46679136/00284bf8-d315-48d0-9d22-72fd35eb8efb">
 
-Project Recording link:
+# Project Recording link:
 https://drive.google.com/file/d/1snfSLA6HvE8HYnsEB1KRnvb8oR8f9Ag5/view?usp=sharing
 
-Future development and improvements
+# Future development and improvements
 1. Use feature engineering and parallelisation to create new features based on combining or transforming the data given might help model to perform better.
 2. We can do hyper parameter (as learned in assignemnt 1) tuning to see if the model performs better.
 3. We can apply parallel running step in the pipeline to do the training faster.
-
