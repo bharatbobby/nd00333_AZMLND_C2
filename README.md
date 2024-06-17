@@ -50,6 +50,8 @@ Key Steps
 12 pipeline-rest-endpoint
 <img width="452" alt="image" src="https://github.com/bharatbobby/nd00333_AZMLND_C2/assets/46679136/00284bf8-d315-48d0-9d22-72fd35eb8efb">
 
+Project Recording link:
+https://drive.google.com/file/d/1snfSLA6HvE8HYnsEB1KRnvb8oR8f9Ag5/view?usp=sharing
 
 
 
