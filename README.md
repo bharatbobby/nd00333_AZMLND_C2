@@ -53,6 +53,8 @@ Key Steps
 Project Recording link:
 https://drive.google.com/file/d/1snfSLA6HvE8HYnsEB1KRnvb8oR8f9Ag5/view?usp=sharing
 
-
-
+Future development and improvements
+1. Use feature engineering and parallelisation to create new features based on combining or transforming the data given might help model to perform better.
+2. We can do hyper parameter (as learned in assignemnt 1) tuning to see if the model performs better.
+3. We can apply parallel running step in the pipeline to do the training faster.
 
