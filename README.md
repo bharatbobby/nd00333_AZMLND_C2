@@ -54,17 +54,21 @@ Automation and Efficiency - Pipelines help manage the various stages of the mach
 <img width="452" alt="image" src="https://github.com/bharatbobby/nd00333_AZMLND_C2/assets/46679136/6f7ac237-6fb3-4a2c-b2bf-aaddf5f16e81">
 
 Running pipeline
+
 <img width="452" alt="image" src="https://github.com/bharatbobby/nd00333_AZMLND_C2/assets/46679136/97cebd3f-3d19-4b32-84ec-4f5a318c0637">
 
 Completed Pipeline
+
 <img width="452" alt="image" src="https://github.com/bharatbobby/nd00333_AZMLND_C2/assets/46679136/be2c1cc4-7967-4a53-8a0f-2cb81d8ff7cd">
 <img width="452" alt="image" src="https://github.com/bharatbobby/nd00333_AZMLND_C2/assets/46679136/f0d90c4c-4dda-4d91-852c-c427a7bada7a">
 
 12 pipeline-rest-endpoint
+
 <img width="452" alt="image" src="https://github.com/bharatbobby/nd00333_AZMLND_C2/assets/46679136/69820121-6dba-4284-bc38-d8ef008e943c">
 <img width="452" alt="image" src="https://github.com/bharatbobby/nd00333_AZMLND_C2/assets/46679136/f00143be-17bc-4e85-8e86-121ddfc2cc40">
 
 Published Pipeline overview
+
 <img width="452" alt="image" src="https://github.com/bharatbobby/nd00333_AZMLND_C2/assets/46679136/37b78301-41ea-47ee-904e-1b5da6121089">
 
 
